@@ -10,7 +10,7 @@ Content will be periodically updated to fix bugs and add and improve content.
 Answer keys can be requested by instructors by emailing me using your school email address.
 
 
-## Using Material
+## Using the Notebooks
 I hope this material is useful for anyone interested in incorporating some Python into their chemistry classes. If anyone would like to offer suggestions, thoughts, or let me know how they're using the material, please don't hesitate to reach out. The "Getting Started with Colab" document has further info about importing, saving, and downloading files and connecting Colab to GitHub.
 
 1. Click on the notebook you want to use. When previewed click the [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/notebooks/basic_features_overview.ipynb) button directly below the email contact information. This will open the notebook in Colab and you can save a copy from there.
