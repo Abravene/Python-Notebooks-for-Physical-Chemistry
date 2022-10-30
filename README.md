@@ -1,5 +1,4 @@
-# Python-Notebooks-for-Physical-Chemistry
-Interactive Python Notebooks for Physical Chemistry
+#Interactive Python Notebooks for Physical Chemistry
 
 ![image](https://user-images.githubusercontent.com/116207408/198405076-85569b18-7fb1-46fa-9855-48e6804763c3.png)
 
@@ -15,10 +14,8 @@ Answer keys can be requested by instructors by emailing me using your school ema
 ##Using Material
 First, I'd love to hear how people are using this book. Second, this book may receive updates with additional content, clarifications, and corrections, so if you want a static copy of the book to use during the academic term, below are multiple options.
 
-1. Download copies of each notebook to share with your students. At the top right of each file, click the download button.
+1. Click on the notebook you want to use. When previewed click the "Open In Colab" button directly below the email contact information. This will open the notebook in Colab and you can save a copy from there.
 
-2. 
-
-2. Fork this repository to your GitHub page and have your students use your copy - create a GitHub account, fork this repository, build the book using Jupyter Book, and have you students use your copy on your GitHub page. You can update your fork of this repository at any time to received any updates, and unlike a PDF copy, this approach makes it easier for students to copy-and-paste code from the chapters. The approach does require the user be confortable using git and GitHub.
+2. Download copies of each notebook from GitHub to share with your students. After clicking on the file you want, at the top right of each file, click the download button.
 
 
